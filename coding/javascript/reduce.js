@@ -82,5 +82,5 @@ console.log(objPeple([
     { name: 'Alice', age: 21 },
     { name: 'Max', age: 20 },
     { name: 'Jane', age: 20 }
-], 'age'));
+], 'age'))
   
